@@ -1,0 +1,20 @@
+1000386113 com.jesperdj:scala-maven-example:jar:1.0.0-SNAPSHOT
+1996385500 org.scala-lang:scala-library:jar:2.12.6:compile
+1126074033 org.apache.zookeeper:zookeeper:jar:3.4.11:compile
+902096996 org.slf4j:slf4j-api:jar:1.6.1:compile
+849520318 org.slf4j:slf4j-log4j12:jar:1.6.1:compile
+1747644505 log4j:log4j:jar:1.2.16:compile
+1597425891 jline:jline:jar:0.9.94:compile
+1302568105 junit:junit:jar:3.8.1:compile
+1788036341 org.apache.yetus:audience-annotations:jar:0.5.0:compile
+1434769862 io.netty:netty:jar:3.10.5.Final:compile
+#
+1000386113 1996385500 compile
+1126074033 902096996 compile
+1126074033 849520318 compile
+1126074033 1747644505 compile
+1597425891 1302568105 compile
+1126074033 1597425891 compile
+1126074033 1788036341 compile
+1126074033 1434769862 compile
+1000386113 1126074033 compile
